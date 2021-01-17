@@ -1,0 +1,2 @@
+rootProject.name='Goo-x-Rider-App'
+include ':app'
